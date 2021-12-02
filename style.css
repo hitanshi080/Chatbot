@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+
+h1{
+    text-align: center;
+    font-size: 65px;
+    font-weight: 200;
+    font-family: 'Piedra', cursive;
+    color: #34d05e;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+img{
+    position: relative;
+    left: 33rem;
+    top: 2rem;
+}
